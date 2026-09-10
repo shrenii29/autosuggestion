@@ -8,7 +8,8 @@
 - handle punctuations
 - work together!!!!
 
-#### Clone this repo and create a branch with your name to push changes. dont push to the main branch.
+> [!IMPORTANT]
+> Clone this repo and create a branch with your name to push changes. dont push to the main branch.
 
 ## File Structure
 ```text
