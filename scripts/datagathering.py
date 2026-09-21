@@ -11,24 +11,48 @@ load_dotenv()
 
 client = genai.Client()
 
-OUTPUT_FILE = "raw_sentences_gemini-flash-lite-latest.txt"
+OUTPUT_FILE = "raw_gemini-3.1-flash-lite-preview.txt"
 BATCH_SIZE = 200 
 
 categories = [
-    {"name": "Workplace & Email", "count": 1800},
-    {"name": "Casual Chat & Social", "count": 1800},
-    {"name": "Inquiries & General Questions", "count": 1200},
-    {"name": "Opinions, Feedback & Reviews", "count": 600},
-    {"name": "Starters & Connectors", "count": 600}
+    {"name": "Workplace & Email", "count": 2000},
+    {"name": "Casual Chat & Social", "count": 2000},
+    {"name": "Inquiries & General Questions", "count": 2000},
+    {"name": "Opinions, Feedback & Reviews", "count": 1000},
+    {"name": "Starters & Connectors", "count": 1000}
 ]
 
 # Random seeds to prevent the LLM from repeating the same outputs across batches
 scenarios = [
+    # General Everyday
     "discussing travel plans", "asking about health", "scheduling a meeting", 
     "complaining about traffic", "sharing food preferences", "tech support",
     "making excuses", "wishing someone well", "following up on a task",
     "asking for directions", "talking about weather", "discussing family",
-    "giving a quick update", "asking for a favor", "expressing urgency"
+    "giving a quick update", "asking for a favor", "expressing urgency",
+    
+    # Tech, Studies & Professional
+    "debugging a coding error", "requesting a deadline extension", "discussing a research paper",
+    "planning a tech presentation", "asking for project feedback", "troubleshooting software bugs",
+    "coordinating an internship interview", "discussing hardware or IoT circuits",
+    "sharing an update on a college assignment", "asking for help with data analysis",
+
+    # Hobbies, Interests & Leisure
+    "discussing a badminton match", "talking about a favorite rock band", 
+    "sharing thoughts on a sci-fi book or space exploration", "planning a trip to a heritage site", 
+    "discussing home renovation plans", "preparing for a public speaking event",
+    "coordinating a weekend meetup with a friend", "discussing an upcoming concert",
+
+    # Logistics & Minor Emergencies
+    "apologizing for being late", "reminding someone of an appointment", 
+    "asking to borrow a laptop charger", "reporting a power cut or internet outage", 
+    "explaining a missed call", "checking if a store is open", "finding a parking spot",
+
+    # Opinions, Shopping & Inquiries
+    "reviewing a new software tool", "complaining about a faulty product", 
+    "asking for movie or series recommendations", "negotiating a price at a shop", 
+    "discussing local street food", "inquiring about a gym or club membership",
+    "comparing two different mobile phones", "asking for a recipe"
 ]
 
 def generate_batch(category_name, size):
@@ -38,7 +62,8 @@ def generate_batch(category_name, size):
     prompt = f"""
     You are creating training data for a mobile keyboard autocomplete model in Marathi.
     Generate a JSON list containing exactly {size} unique, gramatically correct sentences for the category: "{category_name}".
-    
+    Do not create similar or almost similar sentences at all.
+
     Current Scenario Focus: {current_scenario}
     
     CRITICAL RULES:
@@ -53,7 +78,7 @@ def generate_batch(category_name, size):
     
     try:
         response = client.models.generate_content(
-            model='gemini-3.5-flash-lite',
+            model='gemini-3.1-flash-lite-preview',
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
