@@ -1,0 +1,16 @@
+[Unnaturally long word detected: सांगितल्याप्रमाणे] तुम्ही सांगितल्याप्रमाणे हे उपकरण काम करत नाही.
+[Unnaturally long word detected: स्पेसिफिकेशन्सप्रमाणे] आम्ही दिलेल्या स्पेसिफिकेशन्सप्रमाणे माल नाहीये.
+[Contains English characters or numbers] तुम्ही पाठवलेली फाईल کرप्ट Corrupt झाली आहे.
+[Contains English characters or numbers] आज खूप काम होते, sorry.
+[Contains English characters or numbers] आज ट्रॅफिकमध्ये अडकलो होतो, sorry.
+[Contains English characters or numbers] आज खूप काम होते, sorry मित्रा.
+[Contains English characters or numbers] आज खूप ट्रॅफिक होते, sorry.
+[Contains English characters or numbers] आज खूप ट्रॅफिक होते, sorry मित्रा.
+[Contains English characters or numbers] मी थोड्या वेळात पोहोचत आहे, sorry.
+[Unnaturally long word detected: व्हिज्युअलायझेशनबद्दल] कृपया मला डेटा व्हिज्युअलायझेशनबद्दल काही माहिती द्या.
+[Contains English characters or numbers] मी योगा करत होतो, फोनकडे लक्ष नाही गेले, sorry.
+[Unnaturally long word detected: मित्र-मैत्रिणींसोबत] तू एखादा चित्रपट मित्र-मैत्रिणींसोबत पाहिला आहेस का?
+[Unnaturally long word detected: व्हिज्युअलायझेशनसाठी] डेटा व्हिज्युअलायझेशनसाठी तुम्ही काय सुचवाल?
+[Unnaturally long word detected: प्री-प्रोसेसिंगमध्ये] डेटा प्री-प्रोसेसिंगमध्ये मला मदत हवी आहे.
+[Unnaturally long word detected: व्हिज्युअलायझेशनचे] तुम्ही मला डेटा व्हिज्युअलायझेशनचे काही प्रकार सांगाल?
+[Unnaturally long word detected: मित्र-मैत्रिणींसोबत] मी नेहमी मित्र-मैत्रिणींसोबत इथे खायला येतो.
