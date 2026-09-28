@@ -1,0 +1,50 @@
+{"id": 1, "category": "Workplace & Email", "prefix": "कृपया संलग्न कागदपत्र एकदा", "target": "तपासा"}
+{"id": 2, "category": "Workplace & Email", "prefix": "उद्याच्या बैठकीसाठी अजेंडा", "target": "तयार"}
+{"id": 3, "category": "Workplace & Email", "prefix": "मी अहवाल आजच", "target": "पाठवतो"}
+{"id": 4, "category": "Workplace & Email", "prefix": "कृपया तुमचा अभिप्राय", "target": "कळवा"}
+{"id": 5, "category": "Workplace & Email", "prefix": "माझी रजा दोन दिवसांसाठी", "target": "मंजूर"}
+{"id": 6, "category": "Workplace & Email", "prefix": "आपण हा विषय बैठकीत", "target": "चर्चा"}
+{"id": 7, "category": "Workplace & Email", "prefix": "मी आवश्यक कागदपत्रे ईमेलसोबत", "target": "पाठवली"}
+{"id": 8, "category": "Workplace & Email", "prefix": "कृपया अंतिम आवृत्ती मला", "target": "पाठवा"}
+{"id": 9, "category": "Workplace & Email", "prefix": "उद्या सकाळी दहा वाजता", "target": "भेटू"}
+{"id": 10, "category": "Workplace & Email", "prefix": "या कामासाठी तुमची मदत", "target": "हवी"}
+{"id": 11, "category": "Workplace & Email", "prefix": "कृपया ही माहिती गोपनीय", "target": "ठेवा"}
+{"id": 12, "category": "Workplace & Email", "prefix": "मी आजच्या कामाचा अहवाल", "target": "सादर"}
+{"id": 13, "category": "Casual Chat & Social", "prefix": "आज संध्याकाळी आपण", "target": "भेटू"}
+{"id": 14, "category": "Casual Chat & Social", "prefix": "तू मला नंतर", "target": "फोन"}
+{"id": 15, "category": "Casual Chat & Social", "prefix": "मी आत्ता घरी", "target": "आलो"}
+{"id": 16, "category": "Casual Chat & Social", "prefix": "तुला चहा", "target": "हवा"}
+{"id": 17, "category": "Casual Chat & Social", "prefix": "आपण विकेंडला बाहेर", "target": "जाऊ"}
+{"id": 18, "category": "Casual Chat & Social", "prefix": "माझं काम अजून", "target": "बाकी"}
+{"id": 19, "category": "Casual Chat & Social", "prefix": "तू जेवण", "target": "केलंस"}
+{"id": 20, "category": "Casual Chat & Social", "prefix": "मी थोड्या वेळाने", "target": "येतो"}
+{"id": 21, "category": "Casual Chat & Social", "prefix": "आज हवामान खूप", "target": "छान"}
+{"id": 22, "category": "Casual Chat & Social", "prefix": "तुला माझ्याबरोबर", "target": "यायचं"}
+{"id": 23, "category": "Casual Chat & Social", "prefix": "मी तुला उद्या", "target": "सांगतो"}
+{"id": 24, "category": "Casual Chat & Social", "prefix": "आपण हा चित्रपट", "target": "पाहू"}
+{"id": 25, "category": "Inquiries & General Questions", "prefix": "या बसचे तिकीट किती", "target": "रुपये"}
+{"id": 26, "category": "Inquiries & General Questions", "prefix": "महाविद्यालयात प्रवेशासाठी कोणती", "target": "कागदपत्रे"}
+{"id": 27, "category": "Inquiries & General Questions", "prefix": "हा फॉर्म कुठे", "target": "भरायचा"}
+{"id": 28, "category": "Inquiries & General Questions", "prefix": "परीक्षेचा निकाल कधी", "target": "लागेल"}
+{"id": 29, "category": "Inquiries & General Questions", "prefix": "या दुकानाची वेळ किती", "target": "वाजता"}
+{"id": 30, "category": "Inquiries & General Questions", "prefix": "पासवर्ड विसरलो तर तो कसा", "target": "बदलायचा"}
+{"id": 31, "category": "Inquiries & General Questions", "prefix": "पुण्याला जाणारी ट्रेन कधी", "target": "निघते"}
+{"id": 32, "category": "Inquiries & General Questions", "prefix": "या समस्येचे कारण काय", "target": "आहे"}
+{"id": 33, "category": "Inquiries & General Questions", "prefix": "नोंदणी करण्यासाठी कुठे", "target": "जायचे"}
+{"id": 34, "category": "Inquiries & General Questions", "prefix": "या वस्तूची किंमत किती", "target": "आहे"}
+{"id": 35, "category": "Opinions, Feedback & Reviews", "prefix": "मला हा चित्रपट खूप", "target": "आवडला"}
+{"id": 36, "category": "Opinions, Feedback & Reviews", "prefix": "या हॉटेलमधील सेवा खूप", "target": "चांगली"}
+{"id": 37, "category": "Opinions, Feedback & Reviews", "prefix": "माझ्या मते हा निर्णय", "target": "योग्य"}
+{"id": 38, "category": "Opinions, Feedback & Reviews", "prefix": "ही सुविधा वापरण्यास", "target": "सोपे"}
+{"id": 39, "category": "Opinions, Feedback & Reviews", "prefix": "मला या उत्पादनाचा दर्जा", "target": "चांगला"}
+{"id": 40, "category": "Opinions, Feedback & Reviews", "prefix": "या पुस्तकातील माहिती खूप", "target": "उपयुक्त"}
+{"id": 41, "category": "Opinions, Feedback & Reviews", "prefix": "सेवेमध्ये अजून सुधारणा", "target": "हवी"}
+{"id": 42, "category": "Opinions, Feedback & Reviews", "prefix": "मला हा पर्याय फारसा", "target": "आवडला"}
+{"id": 43, "category": "Starters & Connectors", "prefix": "माझ्या मते आपण प्रथम", "target": "विचार"}
+{"id": 44, "category": "Starters & Connectors", "prefix": "सर्वप्रथम आपण या समस्येचे", "target": "विश्लेषण"}
+{"id": 45, "category": "Starters & Connectors", "prefix": "याशिवाय आणखी एक मुद्दा", "target": "आहे"}
+{"id": 46, "category": "Starters & Connectors", "prefix": "दुसरी गोष्ट म्हणजे हा पर्याय", "target": "चांगला"}
+{"id": 47, "category": "Starters & Connectors", "prefix": "म्हणून आपण पुढील पाऊल", "target": "उचलू"}
+{"id": 48, "category": "Starters & Connectors", "prefix": "वरील माहितीच्या आधारे आपण", "target": "ठरवू"}
+{"id": 49, "category": "Starters & Connectors", "prefix": "शेवटी आपण सर्व मुद्दे", "target": "तपासू"}
+{"id": 50, "category": "Starters & Connectors", "prefix": "त्यामुळे हा निर्णय", "target": "महत्त्वाचा"}
