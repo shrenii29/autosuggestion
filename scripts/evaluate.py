@@ -19,7 +19,7 @@ LORA_DIR = os.path.join(PROJECT_ROOT, "models", "marathi-gpt-lora")
 BASE_MODEL = "l3cube-pune/marathi-gpt"
 
 TEST_FILE = os.path.join(
-    PROJECT_ROOT, "datasets", "test", "eval_sentences.jsonl"
+    PROJECT_ROOT, "datasets", "eval_sentences.jsonl"
 )
 RESULTS_DIR = os.path.join(PROJECT_ROOT, "results")
 DETAILS_FILE = os.path.join(RESULTS_DIR, "evaluation_log.csv")
