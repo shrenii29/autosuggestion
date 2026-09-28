@@ -1,0 +1,5 @@
+Timestamp,Model_Dir,Total_Tests,Top_1_Acc_Percent,Top_3_Acc_Percent
+2026-09-23 12:33:19,marathi-gpt-lora,500,0.00,0.00
+2026-09-23 12:39:13,marathi-gpt-lora,98,57.14,63.27
+2026-09-23 13:09:19,marathi-gpt-lora,97,59.79,68.04
+2026-09-23 13:33:36,marathi-gpt-lora,97,64.95,73.20
