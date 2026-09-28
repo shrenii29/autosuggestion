@@ -1,0 +1,46 @@
+{
+  "task": "Marathi next-word autosuggestion evaluation",
+  "total_test_cases": 50,
+  "top1_correct": 14,
+  "top1_accuracy_percent": 28.0,
+  "target_in_first_2_words": 18,
+  "target_in_first_2_words_percent": 36.0,
+  "average_generation_latency_ms": 416.07,
+  "category_results": {
+    "Workplace & Email": {
+      "total": 12,
+      "top1_correct": 3,
+      "top2_hits": 4,
+      "top1_accuracy_percent": 25.0,
+      "top2_hit_rate_percent": 33.33
+    },
+    "Casual Chat & Social": {
+      "total": 12,
+      "top1_correct": 2,
+      "top2_hits": 3,
+      "top1_accuracy_percent": 16.67,
+      "top2_hit_rate_percent": 25.0
+    },
+    "Inquiries & General Questions": {
+      "total": 10,
+      "top1_correct": 5,
+      "top2_hits": 5,
+      "top1_accuracy_percent": 50.0,
+      "top2_hit_rate_percent": 50.0
+    },
+    "Opinions, Feedback & Reviews": {
+      "total": 8,
+      "top1_correct": 3,
+      "top2_hits": 4,
+      "top1_accuracy_percent": 37.5,
+      "top2_hit_rate_percent": 50.0
+    },
+    "Starters & Connectors": {
+      "total": 8,
+      "top1_correct": 1,
+      "top2_hits": 2,
+      "top1_accuracy_percent": 12.5,
+      "top2_hit_rate_percent": 25.0
+    }
+  }
+}

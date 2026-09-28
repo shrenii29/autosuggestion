@@ -1,0 +1,51 @@
+﻿id,category,prefix,expected_next_word,predicted_next_word,generated_suggestion,top1_correct,target_in_first_2_words,latency_ms
+1,Workplace & Email,कृपया संलग्न कागदपत्र एकदा,तपासा,तपासून,तपासून घ्या,False,False,444.31
+2,Workplace & Email,उद्याच्या बैठकीसाठी अजेंडा,तयार,तयार,तयार आहे का,True,True,390.93
+3,Workplace & Email,मी अहवाल आजच,पाठवतो,वाचला,वाचला आहे,False,False,419.72
+4,Workplace & Email,कृपया तुमचा अभिप्राय,कळवा,मला,मला कळवा,False,True,439.7
+5,Workplace & Email,माझी रजा दोन दिवसांसाठी,मंजूर,संपली,संपली आहे,False,False,434.05
+6,Workplace & Email,आपण हा विषय बैठकीत,चर्चा,मांडणार,मांडणार आहोत का,False,False,418.29
+7,Workplace & Email,मी आवश्यक कागदपत्रे ईमेलसोबत,पाठवली,जोडली,जोडली आहेत,False,False,441.2
+8,Workplace & Email,कृपया अंतिम आवृत्ती मला,पाठवा,द्या,द्या,False,False,452.66
+9,Workplace & Email,उद्या सकाळी दहा वाजता,भेटू,भेटू,भेटू या का,True,True,429.31
+10,Workplace & Email,या कामासाठी तुमची मदत,हवी,हवी,हवी आहे का,True,True,433.9
+11,Workplace & Email,कृपया ही माहिती गोपनीय,ठेवा,ठेवू,ठेवू नका,False,False,425.04
+12,Workplace & Email,मी आजच्या कामाचा अहवाल,सादर,तयार,तयार केला आहे,False,False,438.48
+13,Casual Chat & Social,आज संध्याकाळी आपण,भेटू,काहीतरी,काहीतरी नवीन घेऊन येऊ या,False,False,420.52
+14,Casual Chat & Social,तू मला नंतर,फोन,या,या डेटा चे विश्लेषण करशील का,False,False,430.26
+15,Casual Chat & Social,मी आत्ता घरी,आलो,आलो,"आलो आहे , लवकर येऊ द्या",True,True,410.2
+16,Casual Chat & Social,तुला चहा,हवा,खूप,खूप आवडतो का,False,False,400.91
+17,Casual Chat & Social,आपण विकेंडला बाहेर,जाऊ,फिरायला,फिरायला जाऊ या का,False,True,401.69
+18,Casual Chat & Social,माझं काम अजून,बाकी,पूर्ण,पूर्ण झालेलं नाही,False,False,388.47
+19,Casual Chat & Social,तू जेवण,केलंस,तयार,तयार केले आहेस का,False,False,404.58
+20,Casual Chat & Social,मी थोड्या वेळाने,येतो,फोन,फोन उचलला,False,False,411.14
+21,Casual Chat & Social,आज हवामान खूप,छान,छान,छान आहे,True,True,397.92
+22,Casual Chat & Social,तुला माझ्याबरोबर,यायचं,काम,काम करायला आवडेल का,False,False,408.81
+23,Casual Chat & Social,मी तुला उद्या,सांगतो,भेटू,भेटू शकतो का,False,False,410.42
+24,Casual Chat & Social,आपण हा चित्रपट,पाहू,नक्की,नक्की पाहणार आहोत का,False,False,387.9
+25,Inquiries & General Questions,या बसचे तिकीट किती,रुपये,वाजता,वाजता मिळेल,False,False,413.24
+26,Inquiries & General Questions,महाविद्यालयात प्रवेशासाठी कोणती,कागदपत्रे,कागदपत्रे,कागदपत्रे आवश्यक आहेत,True,True,411.55
+27,Inquiries & General Questions,हा फॉर्म कुठे,भरायचा,आहे,आहे,False,False,402.74
+28,Inquiries & General Questions,परीक्षेचा निकाल कधी,लागेल,जाहीर,जाहीर होईल,False,False,399.64
+29,Inquiries & General Questions,या दुकानाची वेळ किती,वाजता,वाजता,वाजता आहे,True,True,398.67
+30,Inquiries & General Questions,पासवर्ड विसरलो तर तो कसा,बदलायचा,दिसेल,दिसेल,False,False,408.72
+31,Inquiries & General Questions,पुण्याला जाणारी ट्रेन कधी,निघते,येणार,येणार,False,False,402.39
+32,Inquiries & General Questions,या समस्येचे कारण काय,आहे,आहे,आहे,True,True,392.38
+33,Inquiries & General Questions,नोंदणी करण्यासाठी कुठे,जायचे,जायचे,जायचे आहे,True,True,415.52
+34,Inquiries & General Questions,या वस्तूची किंमत किती,आहे,आहे,आहे,True,True,451.41
+35,"Opinions, Feedback & Reviews",मला हा चित्रपट खूप,आवडला,आवडला,आवडला,True,True,436.09
+36,"Opinions, Feedback & Reviews",या हॉटेलमधील सेवा खूप,चांगली,चांगली,चांगली आहे,True,True,462.48
+37,"Opinions, Feedback & Reviews",माझ्या मते हा निर्णय,योग्य,खूप,खूप महत्त्वाचा आहे,False,False,432.07
+38,"Opinions, Feedback & Reviews",ही सुविधा वापरण्यास,सोपे,योग्य,योग्य आहे का,False,False,411.37
+39,"Opinions, Feedback & Reviews",मला या उत्पादनाचा दर्जा,चांगला,खूप,खूप चांगला वाटतो,False,True,428.54
+40,"Opinions, Feedback & Reviews",या पुस्तकातील माहिती खूप,उपयुक्त,मोठी,मोठी आहे,False,False,422.17
+41,"Opinions, Feedback & Reviews",सेवेमध्ये अजून सुधारणा,हवी,हवी,हवी आहे का,True,True,450.73
+42,"Opinions, Feedback & Reviews",मला हा पर्याय फारसा,आवडला,सोपा,सोपा वाटला नाही,False,False,403.89
+43,Starters & Connectors,माझ्या मते आपण प्रथम,विचार,या,या विषयावर चर्चा करू,False,False,390.17
+44,Starters & Connectors,सर्वप्रथम आपण या समस्येचे,विश्लेषण,निराकरण,निराकरण करूया,False,False,405.03
+45,Starters & Connectors,याशिवाय आणखी एक मुद्दा,आहे,असा,"असा आहे की , या विषयावर",False,True,413.85
+46,Starters & Connectors,दुसरी गोष्ट म्हणजे हा पर्याय,चांगला,योग्य,योग्य वाटतो का,False,False,411.79
+47,Starters & Connectors,म्हणून आपण पुढील पाऊल,उचलू,उचलू,उचलू या का,True,True,385.08
+48,Starters & Connectors,वरील माहितीच्या आधारे आपण,ठरवू,काय,काय निष्कर्ष काढू शकतो,False,False,402.88
+49,Starters & Connectors,शेवटी आपण सर्व मुद्दे,तपासू,समजून,समजून घेतले पाहिजेत,False,False,403.16
+50,Starters & Connectors,त्यामुळे हा निर्णय,महत्त्वाचा,योग्य,योग्य आहे का,False,False,407.67
