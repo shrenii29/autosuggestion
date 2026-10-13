@@ -1,0 +1,11 @@
+हायपोब्रोमस आम्लब्रोमिक आम्ल
+OBr
+
+
+
+
+InChI=1S/BrHO/c1-2/h2H YKey: CUILPNURFADTPE-UHFFFAOYSA-N Y
+InChI=1S/BrHO/c1-2/h2HKey: CUILPNURFADTPE-UHFFFAOYSA-N
+InChI=1/BrHO/c1-2/h2HKey: CUILPNURFADTPE-UHFFFAOYAL
+ 
+हायपोब्रोमस आम्ल हे उदजन, ऑक्सिजन व ब्रोमिन यांपासून एक दुर्बल, अस्थिर आम्ल असून त्याचे रासायनिक सूत्र HBrO आहे.

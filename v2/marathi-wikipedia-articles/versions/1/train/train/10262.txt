@@ -1,0 +1,134 @@
+
+ चावडी विभागवार:
+प्रचालकांचे मूल्यांकन प्रचालकांचे कार्य आणि कृतींबद्दल उहापोह करण्यासाठीनवीन विषय जोडा | वाचा 
+स्थापना___ 
+काही निवडक चर्चाजुन्या रंगलेल्या किंवा महत्वाच्या चर्चा --
+
+विकिपीडिया:चावडीArchives Dated↓विदागार दिनानुक्रम↓
+
+विकिपीडिया:चावडी/प्रगतीArchives Dated↓विदागार दिनानुक्रम↓
+
+
+विक्शनरी:चावडी
+प्रस्तावित प्रकल्प
+विकिबुक्स चावडी
+विकिक्वोट्स चावडी 
+Talk:मुखपृष्ठ
+प्रस्तावित प्रकल्प
+Talk:विकिप्रॉजेक्ट महाराष्ट्र
+मराठी विकिमीडीया प्रसिद्धी प्रकल्प
+There are a lot of articles in South Asian wikipedias which are in "sub-stub" state. I have developed a button to create at least basic structure for an article. Please have a look at it and add it to monobook if you find it helpful. A functional version of the button is present in Nepal Bhasa wikipedia. Here is a code-
+var Framework = '\n' + '{{Infobox \n' + '|-\n' + '}}\n' + '{{PAGENAME\n' + '}} ] एक आहे।\n' + '== Level 2 Headline ==\n' + ']\n' + '===Level 3 Headline===\n' + '== References ==\n' + '\n' + '== See also ==\n' + '=== Related articles ===\n' + '* ]\n' + '*\n' + '=== External links ===\n' + '*\n' + '{{Template}}\n' + ']\n' + '\n' + ']\n';addCustomButton;
+Please comment about the button in my user-page. Thank you.--Eukesh १३:३७, १० मार्च २००७ 
+Hindi Wikipedia will have new section to exhibit featured articles from other wikipedia. This is an attempt to increase collaboration with other language wikipedias. For very first article, Marathi Featured Article पुणे will be exhibited on main page. For the look at coming main page of Hindi Wikipedia see hi:विकिपीडिया:मुखपृष्ठ. Help and comment on hi:पुणे is also very welcome. 
+Hello, I propose deleting 'nivedan' and 'thodkyat' and include them at s suswagatam box. The reason being we can use 'Piucture of the day' sentences abt it in Marathi. In the nexs is also aan sectioon we should introduce as there are many online news sites in Marathi. Updating it 3-4 days is necessary.Another important thing i would like to point out that DYK? shouldnt include the 'intresting facts' but it should feature the newest developed article of Marathi wikipedia. If admins allow these changes i would like to take care of all the above things after my exam. Plz comment.
+The Marathi newspapers will be used for News section and a certain kind of POV for Marathi manus will remain in Marathi newspapers. But this is true for all languages and countries. I can ensure that i shall not present the 'selective bias'. Belgaum article is quite NPOV,i have imporved a lot :)→→महाराष्ट्र एक्सप्रेस→→ १८:०७, १४ मार्च २००७ 
+Dear Friends ,
+Please help me by giving final touches to विकिपीडिया:विक्शनरी नमुना पत्र१ & Wikipedia:कायदा आणि प्रताधिकारमुक्ती प्रकल्प at your earliest. I am about to send these letters soon.
+Thanks and Regards
+Mahitgar ०९:१९, १६ मार्च २००७ 
+The text looks good. I agree with sending these letters to the universities named and any others missed.
+अभय नातू २०:३२, १६ मार्च २००७ 
+Namaskar!महिनाभर भारतवारी झाल्याने इकडे यायला जमले नाही. Anyways, feeling good to be back. Will continue to put on info on our wiki whenever possible.Well,बरहा वापरुन मला इंग्लिश नाव 'Henrie/Henri' मराठीमध्ये टाईप करता येत नाहीये. 'हेन्री' असे टाईप होतेय. I want to type half न attached to री in it. Please advice. Thanks in advance.Marathipremi ०५:५४, १४ एप्रिल २००७ marathipremi
+Henrie/Henri देवनागरीत लिहिताना न अर्धा करायची गरज नाही. तो तसा न करता न चा उच्चार अर्धा होतो. हेनरी=हे‌न्‌री=हेन्री.तरीसुद्धा हेन्‌री असे टंकण्यासाठी बरहामध्ये h e n ^ ^ r e e असे टाईप केल्यास अर्धा न उठेल. न्‍री असे टंकण्यासाठी n ^ r I करून पाहा.--J--59.95.21.205 १४:३९, १४ एप्रिल २००७ 
+धन्यवाद J! I could type Henrie as हेन्‍री!Marathipremi २१:०१, १४ एप्रिल २००७ Marathipremi
+I request all admins and members to allow butomated bots on Marathi wikipedia. I think for the sake of increase in number of articles here, we need a bot. Depth/quality etc is fine but the nu. of articles in a wikipedia are important as well. It is very sad that despite good contributors our wikipedia shall always lag behind than those who run bots. I request all of u to please support this decision and allow bots here, I have also requested Eukesh for this.→→महाराष्ट्र एक्सप्रेस→→ ०९:४१, १८ मार्च २००७ 
+Thanks and regards
+Mahitgar १३:३८, १८ मार्च २००७ 
+महाराष्ट्र_एक्सप्रेस,
+I totally understand your POV and I'm in agreement that getting up there in terms of numbers will attract more and more people to this site, leading to more authors, more edits and richer contents. Even if we can not use bots there's nothing stopping us from creating pages on our own. I created the year pages and date pages with a desire same as yours. Make marathi wikipedia bigger . Same way, I created district pages for all states of India.
+There are many other topics where you can add pages with little effort. One suggestion is names of talukas for all districts in Maharashtra This information should be readily available on the web and it will not be hard to create a template and copy-paste into new pages.
+I hope you can think of more ways and implement them after your exams. Best of luck with your exams.
+अभय नातू ०६:५८, १९ मार्च २००७ 
+p.s. Speaking of depths, Marathi wikipedia crossed the depth of 10 just last night . It is only the second wikipedia to have a richness-indicator, or depth, of 10 or better.
+Wolf, et al,
+Thanks for your interest in developing Marathi Wikipedia further. We need all the help we can get.
+I believe no one here is arguing against using bots to create articles. However, there are several hurdles to this --
+Bots are a good idea. Right now, Marathi Wikipedia just does not have the manpower to create or even run them. I expect that situation to change, and change very soon.
+Thanks again!
+अभय नातू १९:३६, १९ मार्च २००७ 
+Hi Abhay, since i know less about bots i cant help u in that regard.I assure u to help as much as i can.Lets hope we will have a bot soon. →→महाराष्ट्र एक्सप्रेस→→ ११:१२, २० मार्च २००७ 
+विजय १६:१०, २० मार्च २००७ 
+Mahitgar ०५:२२, १९ मार्च २००७ 
+Eukesh,
+Thanks for your continued valuable research and sharing of the same with us.
+I recommend not changing the default input system, rather allow individuals to customize their own inputer experience by altering their user monobook.js pages. This will allow users to choose the phonetic input system while keeping the default input system in place.
+If there are any interested users that need phonetic input installed for their user id's, I will post a step-by-step of how-to so they can use the phonetic input system.
+Regards,
+अभय नातू १६:२०, १९ मार्च २००७ 
+कृपया तज्ज्ञ व्यक्तींनी प्रणाली संदेश येथील भाषांतर आणि शुद्धलेखन यावरून एकदा नजर टाकावी. हे संदेश मिडीयाविकी प्रणालीमध्ये टाकण्याचा विचार आहे. त्यामुळे सर्व विकिंवर मराठी संदेश उपलब्ध होतील.---कोल्हापुरी ०४:४७, २१ मार्च २००७ 'nana dixit ०४:४१, २८ मार्च २००७ Allpage summary' sathi 'Sarva panancha goshvara' kinva 'Goshvara: sarva pane' asa shabda suchvit ahe
+इंग्लिश विकिपीडियाने मेटाविकिच्या सहकार्‍यासह विकिपीडिया साइनपोस्ट नावाचे वृत्तपत्र सुरू केले आहे. यात विकिपीडियाबद्दलच्या बातम्या असतात.
+मराठी विकिपीडियावर याच्या प्रत्येक आवृत्तीचा दुवा दिला जाईल. याला मराठीत नाव सुचवा .
+अभय नातू ०७:१५, २१ मार्च २००७ 
+while I have not signpost,Just tried few विकि दरमजल
+विकि मजलदरमजल
+विकि वार्ता 
+विकि स्तंभ
+विकितून 
+विकि आमाआका
+विकिविश्व
+विकिधावतेजग
+विकिवेगळे
+विकिनिराळे
+Mahitgar १५:२७, २१ मार्च २००७ 
+साइनपोस्ट म्हणजे रस्त्याच्या नाक्यावर असणारा गावाची नावे व अंतरे दाखवणारा खांबावरील फलक. 'विकिस्तंभ' सोडला तर वरील कुठल्याच मराठी शब्दात हा अर्थ ध्वनित होत नाही; असे असले तरी हे सर्वच शब्द छान आहेत. कुठलाही चालू शकेल. माझ्या मते विकिस्तंभ सर्वोत्तम!--J ०६:३६, २२ मार्च २००७ 
+wiki varta is the perfect name. →→महाराष्ट्र एक्सप्रेस→→ ०५:५२, २२ मार्च २००७ 
+एप्रिल २००७चे मुखपृष्ठ सदर ठरवण्यासाठी विकिपीडिया:कौल येथे कौल घेण्यात येत आहे. सध्या बेळगांव व क्रिकेट विश्वचषक, २००७ हे दोन्ही लेख तीन-तीन मते घेउन समसमान आहेत. आपले मत लवकर नोंदवा.
+अभय नातू ०६:२९, २३ मार्च २००७ 
+Assuming that no major swing will tip the poll in favor of the other article, बेळगांव will be next month's featured article. The article, as it is now, needs a leader paragraph that describes the city in 10-15 lines.
+अभय नातू १४:५९, २३ मार्च २००७ 
+Maza Belgaum hya vishayala pathimba ahenana dixit १०:२१, २३ मार्च २००७ 
+Thanks a lot to all those who voted. →→महाराष्ट्र एक्सप्रेस→→ १३:४१, २३ मार्च २००७ 
+2007 च्या विश्कपात भारतिय खेळाडुनि मान टाकुन पराभव स्विकारला.
+अनेक तथाकथित स्टार खेळाडु टिम मध्ये असुनहि आणि कॅप्टन द्रविड याचा अवाजवी व फुसका अभिमान याला कारणिभुत ठरला.
+हरण्यात लाज कसली? कोणत्याही खेळात कोणताही संघ कधी जिंकणार कधी हरणारच!! 
+शिवाय, विश्वचषक स्पर्धा सुरू होण्यापूर्वी एकदिवसीय क्रिकेटच्या जागतिक क्रमवारीत भारताचा क्रमांक ६वा होता. ६व्या क्रमांकाच्या संघाने सुपर ८ फेरीत सहजपणे जाण्याच्या वल्गनाच करू नयेत. त्यामुळे हा पराभव लज्जास्पदही नव्हता व दाखवला जात आहे तितका अनपेक्षितही नव्हता.
+अभय नातू १५:२२, २९ मार्च २००७ 
+मराठी विकिपीडियावर सामासिक शब्द वापरण्याबद्दल तुम्हाला काय वाटते याबद्दल इथे मत नोंदवा.
+एकेकाळी आम्हालासुद्धा संधी आणि समास करून जोडलेले लांबलचक शब्द वाचताना गंमत वाटत असे. रामरक्षेतील-----आत्तसज्जधनुषाविषुस्पृशावक्षयाशुगनिषङ्‌गसंङ्‌गिनौ । किंवा कादंबरीतील--हरिनखरभिन्नमत्तमातंगकुंभमुक्तरक्तार्दमुक्ताफलत्विंषि खंडितानि दाडिमबीजानि ।। अजूनही लक्षात राहिले आहे. संकल्प द्रविडांचे समासप्रेम आम्ही समजू शकतो. आपले संपूर्ण नाव हा सुद्धा तसे पाहिले तर एक सामासिक शब्द असतो. अश्वत्थामाबल्लाचार्यगजेन्द्रगडकर किंवा बसप्पासिद्दप्पापट्टणशेट्टी हे वाचायला जरासे अवघडच नाही का? मोरोकेशवदामल्यांच्या शास्त्रीयमराठीव्याकरणाच्या १९११ मध्ये दा.स यंदे यांनी प्रकशित केलेल्या पहिल्या आवृत्तीत भाषण या शब्दाची व्याख्या अशी दिली होती.-----.विशिष्टकल्पनावाचकसांकेतिकविशिष्टशब्दमयस्वरूप म्हणजे भाषण!------या ग्रंथाच्या १९२५च्या आवृत्तीत आणि त्यानंतर कृ. श्री. अर्जुनवाडकरांनी संपादित केलेल्या व रा. ज. देशमुखांनी १९७० मध्ये प्रकाशित केलेल्या तिसर्‍या आवृत्तीत हा शब्द समास सोडवून छापलेला आढळतो. महाराष्ट्रात फिरताना गावागावातून एक पुन्हा पुन्हा भेटणारा फलक दिसतो.भारतरत्न डॉक्टर भीमराव रावजी ऊर्फ बाबासाहेब आंबेडकर कला विज्ञान वाणिज्य महाविद्यालय! आता हा फलक समास करूनच लिहावा लागतो. अक्षरे मावायला हवीत ना? तेव्हा सामासिक शब्दांच्या लांबीची मर्यादा घालून देणारे बंधन आपणच निश्चित केले तरच तरणोपाय आहे.-- J--J ०७:४१, ३० मार्च २००७ 
+'शास्त्रीय' व 'मराठी' ही विशेषणे आहेत हे संकल्प द्रविडांचे हे विधान जरा तपासून घ्यावे लागेल. मराठी हा शब्द मुळात एक विशेषण आहे असे मानायला अडचण नाही. उदाहरणार्थ : मराठी बाणा! परंतु मराठी भाषा किंवा मराठी व्याकरण इथे तो विशेष नाम आहे. संस्कृत ग्रंथात संस्कृतभाषा, किवा महाराष्ट्रभाषा असे सामासिक शब्दच सापडतात. विशेषणे 'नाम' म्हणून वापरता येतात हे खरे. राम, निखिल, गौरी, विक्रमादित्य ही मूळची विशेषणे आता व्यक्तिनामे आहेत.  तसेच मराठी हे नाम! जर 'मराठी' मूळचे विशेषनाम मानले तर मराठीव्याकरण हा जोडशब्द षष्ठीतत्पुरुष समास होईल. ग्रंथविक्रेता, फळभाजी, कापडदुकान याप्रमाणे. एवंच, मराठी-व्याकरण हा एक सामासिक शब्दच आहे.  
+आता शास्त्रीय हे विशेषण मानले तर त्याचे विशेष्य कोणते? मराठी? शास्त्रीय मराठी म्हणजे शास्त्री-पंडितमान्य मराठी की विज्ञानादि शास्त्रांसाठी उपयुक्त असे पारिभाषिक मराठी की शास्त्रोक्त मराठी?  तीनही नाही. शिवाय मराठी या विशेषणाचे विशेषण म्हणून 'शास्त्रीय' हे क्रियाविशेषण होईल.  बरे, शास्त्रीय हे 'व्याकरणा'चे विशेषण मानले तर ते त्याच्या आधी किंवा नंतर लगेच का आलेले नाही? म्हणजे शास्त्रीय हे फारतर मराठीव्याकरण या सामासिक शब्दाचे विशेषण होईल. विशेषण-विशेष्याचा समास नेहमीच होतो तेव्हा शास्त्रीयमराठीव्याकरण हा एक सामासिक शब्दच आहे हे मान्य व्हावे.
+चित्रपट अभिनेते असा समास करायचा असेल तर संधीपण करावा लागेल. चित्रपटाभिनेते. हे मान्य असेल तरच दोन शब्द जोडावेत, अन्यथा ते सुटेसुटे लिहून हा सामासिक शब्द आहे असे मनातल्यामनात समजून घ्यावे. -J-59.95.9.219 १५:०७, १ एप्रिल २००७ 
+
+इंग्लिशमधले पल्लेदार, लांबलचक शब्द सहज उच्चारू शकणार्‍या शिक्षित भारतीय जिभांना २ शब्दांपासून बनवलेले सामासिक शब्द क्लिष्ट वाटू नयेत.
+मराठी विकिपीडिया हा फक्त अशा सुशिक्षित मराठी माणसांसाठी नाही. किंबहुना, अशांसाठी तो नाहीच!! हे संदर्भस्थळ अशा मराठी माणसासाठी आहे ज्याला मराठी वाचता येते आणी ज्याला मराठीत संदर्भ पाहिजेत. इंग्लिश फाडणार्‍या मंडळींसाठी जगात अनेक संदर्भग्रंथ/स्थळे उपलब्ध आहेत. त्यात भर घालण्याची माझी मुळीच इच्छा नाही. असे केल्यासच हे काम स्वस्त होईल, कारण इंग्लिश येणार्‍या व्यक्तीला या संदर्भस्थळाची किंमत नसणार. तरी अशांची काळजी न करता किमान मराठी वाचकाला उपयुक्त व सोयीचे असेच हे संदर्भस्थळ असावे ही माझी विनंतीवजा इच्छा आहे.
+आता समासाविषयी म्हणलात तर बर्‍याच ठिकाणी समास वापरणे अटळ आहे. तेथे ते वापरलेच पाहिजेत. परंतु जेथे गरजेचे नाही तेथे वापरू नये असे माझे मत आहे. मी पूर्वी म्हणल्याप्रमाणे विकिपीडियावरील भाषा व्याकरणदृष्ट्या अचूक परंतु शक्य तितकी सोपी असली पाहिजे. 
+हा विकिपीडिया हार्वर्ड, येल, आय.आय.टी. शिक्षित माणसासाठी नसून तो नागपूर, जालना, सावंतवाडीतील आठ बुकं शिकलेल्या पण किमान संगणक शिक्षण असलेल्या मराठी माणसासाठी आहे. 
+अभय नातू १६:२५, ३० मार्च २००७ 
+ता.क. नागपूर, जालना, सावंतवाडी ही नावे फक्त उदाहरण म्हणून वापरलेली आहेत. या भागांना मागास वगैरे म्हणायचा माझा मुळीच उद्देश नाही.
+अभय नातूंनी ताजा कलम लिहून खुलासा केला हे बरे झाले. हो उगीच कुणाच्या भावना दुखायला नकोत. मी त्यांच्या जागी असतो तर ढेबेवाडी, पोराची आळंदी किंवा पायपुसणीचे तळेगाव अशी उदाहरणे घेतली असती.--J.--J ०७:०६, १ एप्रिल २००७ 
+हा विकिपीडिया हार्वर्ड, येल, आय.आय.टी. शिक्षित माणसासाठी नसून तो नागपूर, जालना, सावंतवाडीतील आठ बुकं शिकलेल्या पण किमान संगणक शिक्षण असलेल्या मराठी माणसासाठी आहे. 
+
+मी मराठी लिहिण्यासाठी "तख्ती एडीटर" चा वापर करतो. हा एडीटर वापरायला खुपच सोपा आहे. 
+"तख्ती एडीटर" बद्दलची माहीती मी मराठी विकिपिडीयाच्या विकिपीडिया साहाय्य:Setup For Devanagari विभागात दिलेली होती. पण ती माहिती Delete केली गेली आहे. कुणीतरी याबद्दल स्पष्टीकरण देइल काय?
+धन्यवादसंदीप
+विकिकरहो,
+revolutionaries करता एक माहितीचौकट साचा बनवायचा आहे. जहाल क्रांतिकारक, न्याय्य मागण्यांकरता किंवा सूड घेण्याकरता प्रस्थापित सत्तेविरुद्ध उठाव करणारे बंडखोर, सशस्त्र विरोधापेक्षा वेगळ्या प्रकारे चळवळ घडवून आणणारे कार्यकर्ते इत्यादी सर्व प्रकारांच्या revolutionaries करता हा साचा बनवण्याचा मानस आहे. तर अशा सर्वसमावेशक अर्थाने 'revolutionaries' शब्दाकरता नेमका कोणता प्रतिशब्द वापरता येईल. 'साचा:माहितीचौकट क्रांतिकारक' असे नाव सुचले .. पण 'क्रांतिकारक' हा शब्द सर्वसाधारणतः सकारात्मक आणि सशस्त्र विरोधकाच्या छटेने वापरला जातो. 'साचा:माहितीचौकट बंडखोर' हे नाव काहीसे नकारात्मक छटेचे वाटते . 'महात्मा गांधी', 'मार्टिन ल्यूथर किंग' या व्यक्तींकरता वरची दोन्ही नावे तितकीशी बरोबर वाटत नाहीत. तेव्हा अन्य काही चपखल प्रतिशब्द वापरता येईल काय?
+--संकल्प द्रविड ११:०३, ३ एप्रिल २००७ 
+युगपुरुष, युगप्रवर्तक.  विचारवंत, विचारप्रवर्तक. भिन्नमतवादी, भिन्नमार्गी, वैशेषिक.  द्रष्टा, तत्त्वज्ञ, तत्त्वचिंतक.  --J-J १५:२०, ३ एप्रिल २००७ 
+दोन-तीन धेडगुजरी पण अर्थवाही शब्द: इतिहासाला कलाटणी देणारे ते इतिहास-कलाटक. इतिहास घडवणारे ते इतिहास-घडारी. तसेच इतिहास-झुकांडे, इतिहास-झुकवे.--J--J १२:०४, ४ एप्रिल २००७ 
+Championship या शब्दाकरता मराठीत प्रतिशब्द काय आहे?
+अभय नातू १६:४४, ५ एप्रिल २००७ 
+शब्दकोशात कैवार  सर्वविजेतेपद असे दोन अर्थ दिले आहेत. दोन्ही शब्द वेगवेगल्या संदर्भात योग्य आहेत. अजिंक्यपदस्पर्धा हे स्पर्धेचे नाव किंवा वर्णन झाले. 'अमुक साली अमुक व्यक्तीने या क्रीडाप्रकारात चॅंपियनशिप मिळवली' या वाक्यात भाषांतरासाठी "अजिंक्यपद" हा शब्द चपखल बसतो. 'सर्वविजेतेपद' हा शब्द्सुद्धा चांगला आहे. --J--J १५:४८, ७ एप्रिल २००७ 
+अजिंक्य=अविजित=अजेय=अजित या सर्वांचा अर्थ कुणाशीही न हरलेला असा होईल हे मान्य. परंतु सर्वविजेता याचा अर्थ कदाचित प्रत्य़क्ष किंवा अप्रत्यक्षपणे ज्याने सर्वांवर विजय मिळवलेला आहे असा करता येईल, आणि म्हणून तोच सर्वोत्तम शब्द आहे. तसे पाहिले तर चॅंपियनसाठी 'सर्वोत्तम' किंवा 'सर्वश्रेष्ठ" काय वाईट आहेत? अर्थातच चॅंपियनशिपसाठी सर्वश्रेष्ठत्व! मला वाटते की प्रत्येक इंग्रजी शब्दासाठी एकशब्दी पर्याय शोधलाच पाहिजे असे बंधन का असावे? 'सर्वोत्तम खेळाडू' किंवा 'संघ' म्हटले तर कुठे बिघडते?  आणि त्याहीपेक्षा कुठलेही जोडाक्षर नसलेला सर्वतोमुखी असलेला चॅंपियनशिप हाच शब्द मराठीने पूर्ण आत्मसात का करू नये? मराठीत सहज उच्चारण्यासारखे परकीय पण अर्थवाही शब्द आले तर मराठी भाषा जास्त समृद्ध होईल असे नाही वाटत? ---J--59.95.19.97 १५:४६, ७ एप्रिल २००७ 
+"मराठी विकिपेडीया अजुन १०००० लेखांचा टप्पा पार करु शकला नाही कारण यातील काही लोक खरा ईतिहास लिहुन देत नाहीत." या माझ्या प्रश्नावर चर्चा करा नाही तर मान्य करा की मी जे बोललो ते खरे आहे. कारण अभय नातू तुम्ही सुद्धा सरदार नातू यांचे वंशज आहात ज्यांनी पेशवाईचा शेवट झाला तेव्हा स्वत:च्या हाताने ब्रिटिश ज्याक पुण्यात फडकवला.
+जे-कोणी-लिहीत-आहात-ते,
+कृपया वैयक्तिक टीका न करता आपल्याला काय बरोबर वाटत नाही याचे स्पष्टीकरण द्यावे. विकिपीडियाला हातभार लावण्याची आपली तयारी किंवा कुवत नसेल तर काम करणार्‍यांना नावे ठेवू नका.
+आपल्याला उद्देशून लिहिलेले उत्तर मी मुद्दाम खोडत आहे कारण मला वाटत आहे की तुमचे गैरसमज दूर केल्यास तुमच्याकडून विकिपीडियाला मदत होईल. तरी आपले प्रश्न किंवा तक्रारी येथे लिहाव्यात, आपले खरे नाव देउन.
+अभय नातू १५:३५, १० एप्रिल २००७ 
+Jai Maharashtra va Jai Bhim.→→महाराष्ट्र एक्सप्रेस→→ १६:३१, १७ एप्रिल २००७ P.S:Keep watching,10,000 mark is not far.→→महाराष्ट्र एक्सप्रेस→→ १६:३२, १७ एप्रिल २००७ 
+विकिकरहो,
+मे, २००७च्या मुखपृष्ठ सदर लेखासाठी कौलपानावर आपले मत लवकर नोंदवा.
+अभय नातू १५:४६, १० एप्रिल २००७ 
+We should not be using the India map that dont show kashmir as part of india.
+CHeck out गोवा page.
+Maihudon ०४:४७, ११ एप्रिल २००७ 
+ho na
+sujit jadhav
+Well, you can either get bothered by idiotic comments and spend/waste time fighting those posters or ignore them and do what's important.I choose to do the latter :-)अभय नातू ०३:४९, १७ एप्रिल २००७ 
+This idiotic comment should be deleted. →→महाराष्ट्र एक्सप्रेस→→ १६:२८, १७ एप्रिल २००७ 
+सातारा शहरचे जगाच्या नकाशावरचे स्थान १७.६९१३९° उत्तर अक्षांश, ७४.०००७२° पूर्व रेखांश असे आहे.इतके अचूक अक्षांश-रेखांश देण्याची गरज नाही. विषुववृत्तावर दोन रेखांशामधील अंतर ६० नॉटिकल मैल इतके होईल. म्हणून 0.000७२ अंश = ७९ मीटर, फारच लहान अंतर! जास्त अचूक माहिती शहराच्या सुरक्षिततेला धोकादायक ठरू शकते. शिवाय इतक्या अचूक महितीचा सामान्य जनतेला काही फायदा नाही. --J--J ०४:३९, १६ एप्रिल २००७ 
+--Forget dangerous or otherwise. Suppose I wrote that the distance between Bombay and Pune by railway is 191.637893 km. Is it a sensible statement for a common man?---J-J ०८:२६, १८ एप्रिल २००७ 
+'शाहुनगर'मध्ये 'हु' र्‍हस्व तर 'शाहूपुरी'त दीर्घ लिहिला आहे. योग्य ती सुधारणा व्हावी.--J--J ०७:२०, १६ एप्रिल २००७ 
+What is tha marathi equi. word for All rounder 
+Maihudon ०७:२४, १८ एप्रिल २००७ ---खेळाडूसाठी--अष्टपैलू! इतर अर्थाने--सर्वसंचारी प्रज्ञा/प्रतिभा. सवांगीण/सर्वंकष विकास. सर्वगुणसंपन्‍न. सर्वज्ञ/सर्ववेत्ता/सर्ववेदी. सर्वसिद्ध. ---J--J ०८:४७, १८ एप्रिल २००७ 

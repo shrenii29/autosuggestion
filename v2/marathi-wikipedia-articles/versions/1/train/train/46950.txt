@@ -1,0 +1,10 @@
+"'संकेतस्थळ रंग"' हे आंतरजाळामधील पाने तयार करताना वापरले जाणारे काही रंग आहेत. यांचे वैशिष्ट्य म्हणजे हे रंग "हेक्साडेसिमल"पद्धतीमधे कसे दर्शवायचे, हे ठरवलेले आहे, जेणेकरून विविध "प्लॅटफॉर्मस्"वर एकच संकेत वापरून रंग वापरता येतील. हेक्साडेसिमल रंगसंकेत "'हॅश'"ने सुरू होतो.
+आंतरजाळामधील पानांवर रंग दर्शवण्यासाठी खालील पद्धती उपलब्ध आहेत - 
+Web colors have an unambiguous colorimetric definition, sRGB, which relates the chromaticities of a particular phosphor set, a given transfer curve, adaptive whitepoint, and viewing conditions. These have been chosen to be similar to many real-world monitors and viewing conditions, so that even without color management rendering is fairly close to the specified values. However, user agents vary in the fidelity with which they represent the specified colors. More advanced user agents use color management to provide better color fidelity; this is particularly important for Web-to-print applications.
+या पद्धतीद्वारे एकूण २५६ × २५६ × २५६ = १,६७,७७,२१६ रंग दर्शवता येतात.
+HTML 4.01 नुसार खालील १६ रंगांसाठी नावे देण्यात आलेली आहेत.
+खाली दिलेला तक्ता हेक्साडेसिमल पद्धतीने दर्शवता येणार्‍या रंगांपैकी काही रंगांची झलक दाखवतो. खालील तक्त्यामधे #609 म्हणजे प्रत्यक्षातील #660099 होत.
+
+
+
+

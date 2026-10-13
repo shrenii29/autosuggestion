@@ -1,0 +1,2 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+v2/datasets/clean/wiki_clean_train.txt filter=lfs diff=lfs merge=lfs -text

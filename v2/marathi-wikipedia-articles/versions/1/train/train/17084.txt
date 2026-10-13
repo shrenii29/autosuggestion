@@ -1,0 +1,6 @@
+साचा:Cleanup-list
+
+साचा:UnreferencedA machine translation application is a program which can translate text or speech from one natural language to another. Machine translation applications are essential to the modern language industry. Please see the individual products' articles for further information.
+Basic general information for popular Machine translation applications.
+initiative taker
+The following table compares the amount of languages which the following machine translation programs can translate between. is available and one for other languages need to be provided by the user.)

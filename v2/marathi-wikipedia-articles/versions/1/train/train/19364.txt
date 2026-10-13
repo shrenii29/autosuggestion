@@ -1,0 +1,39 @@
+* सूचना: हे पान अर्धसुरक्षित आहे. फक्त प्रवेश केलेले सदस्य याच्यात बदल करू शकतात.
+Cette fête  occasion pour tous dans représentant après un traitement sur, comme Vans CA sera être nous présentant pas au mieux un  insolite  arbitrer les festivités. Le vacances  intention apporter nous le Vans CA "Floral COMMINGLE " et le Vans CA "Hickory Mix " packs. 
+Chaque paquet tas présente des textiles à motifs et appât suède prend la Vans Era style Decon CA et le Vans Sk8-Salut 46 en Californie Floral Jumble d confondent présente chaque modèle avec un Mocha Bisque construction compréhension que les paires complexe floral publier avec chic portions de daim, tandis que le Hickory Mix offre soit silhouette dans un assaisonné rayé  cohérence avec semelles OrthoLite à la recherche améliorée air débit. 
+Si vous êtes intéressé par l'une ou l'autre Vans CA "Floral Réunissez " ou Vans CA "Hickory composé ", puis vous pouvez obtenir parfois non aggraver norme  duo aujourd'hui simples à choisir Vans CA détaillants. like from:Do not translate this page name and content to Marathi Language. This page is a special purpose exception for visitors and readers who do not know how to read marathi language or script. Please look for Marathi copy else where or request a translation at विकिपीडिया:भाषांतर प्रकल्प Marathi Wikipedia uses Unicode to display Marathi text. However, before Marathi can be viewed or edited, support for Complex Text Layout must be enabled on your operating system. You can find help to read and write in Marathi text on this page. If you need advanced help or ask questions please visit our Helpdesk
+The following table compares how a correctly enabled computer would render the following scripts with how your computer renders them:
+Refer chart below for Marathi Typing and keyboard. 
+If the rendering on your computer matches the rendering in the images for the scripts, then you have already enabled complex text support! You should be able to view text correctly in that script. However this does not mean you will be able to edit text in that script. To edit such text you need to have the appropriate text entry software on your operating system.
+Complex text support needs to be manually enabled.
+If you can access YouTube then watch this easy Marathi commentary for detail info
+You must follow the steps above before you perform the remaining steps.
+You can use the combination ALT + SHIFT to switch between different keyboard layouts . If you want a language bar, you can select it by pressing the "Language Bar..." button on the "Text Services and Input Languages" dialog and then selecting "Show the language bar on my desktop". The language bar enables you to visually select the keyboard layout you are using.
+Detailed information at सहाय्य:Setup For Devanagari/Linux
+You do not need to do anything to enable viewing of Marathi text in GNOME 2.8 or later. Older versions may have support for some, but not all Indic scripts. Ensure you have appropriate Unicode fonts for each script you wish to view or edit.
+When using Mozilla or Mozilla Firefox, you must enable Pango rendering by opening xterm and typing MOZ_ENABLE_PANGO=1 mozilla or MOZ_ENABLE_PANGO=1 firefox. After this, all future sessions of Mozilla or Firefox will have Indic language support. This will work only on Firefox compiled with ctl support. Only the firefox binaries supplied by Fedora Core 4 and 5, Ubuntu Linux, and Kate OS are compiled with this ctl and set this option, by default.
+For Ubuntu 6.06, this support has been turned off due to speed issues. To enable support, you must type MOZ_DISABLE_PANGO=0 firefox. Future sessions do not remember this setting, so it must be repeated.
+Another option is to use SCIM, to enable that,
+For more check http://www.ruturaj.net/fedora-6-hindi-support-scim
+Detailed information at सहाय्य:Setup For Devanagari/Linux
+Simply enter as root:
+and when the installation is complete restart the X server
+You do not need to do anything to enable viewing of Marathi text. en:Safari, however, seems to render text better and more reliably than en:Firefox. Opera also provides some support, although it isn't perfect.
+Specific keyboard layouts can be enabled in System Preferences, in the International pane. Switching among enabled keyboard layouts is done through the input menu in the upper right corner of the screen. The input menu appears as an icon indicating the current input method or keyboard layout — often a flag identified with the country, language, or script. Specific instructions are available from the "Help" menu .SIL distributes a freeware Ukelele that allows anyone to design their own input keyboard for Mac OS X.
+Complex text support needs to be manually enabled.
+https://devanagarikeyboard.codeplex.com/
+Key Mappings:
+अ : A  आ : a  इ : i  ई: I  उ: u  ऊ: U  ए: e  ऐ: E  ओ: o  औ: O  अं: N  अ: : :
+क : k  ख : K  ग : g  घ : G  ङ  च : c  छ : C  ज : j  झ : jH  ञ : Y  ट : T  ठ : TH  ड : D  ढ : DH  ण : nH  त : t  थ : tH  द : d  ध : dH  न : n  प : p  फ : pH  ब : b  भ : bH  म : m  य : y  र : r  ल : l  व : v  श : sH  ष : S  स : s  ह : h  ळ : L  क्ष : x  ज्ञ : Z
+श्र: W  ॐ : Q  कृ: @
+काना: aपहिली वेलांटी: iदुसरी वेलांटी: Iपहिला उकार: uदुसरा उकार: Uएक मात्रा: eदोन मात्रे: E
+We recommend you use Baraha IME phonetic input software
+OR
+You must follow the steps above before you perform the remaining steps.
+One more software is good for inputting Devnagari text when you can not install the IME
+http://www.geocities.com/hanu_man_ji/
+There are some more links for the Indic software are given here http://indology.info/links/soft/
+These operating systems contain no support for Marathi script. Downloading Internet Explorer 6.0 should enable you to view Marathi script on these operating systems but you will not be able to edit any Marathi text. If after downloading Internet Explorer, you still cannot view Marathi scripts please install an Unicode font 
+Mozilla Firefox does not support Marathi script on these operating systems unless a modified version of the program is such as the one found here.सिव् हिओ देव
+Detailed information about Marathi fonts in Marathi Language at संगणक टंक
+If you have followed the instructions for your computer system as mentioned above and you still cannot view Marathi text properly, you may need to install a Unicode font:Marathi Devnagari fonts available at-

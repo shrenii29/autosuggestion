@@ -1,0 +1,5 @@
+Timestamp,Run_Name,Model,Device,Scenario,Sample_N,Top1_Acc,Top1_CI,Top3_Acc,Top3_CI,Lat_Mean_ms,Lat_P50_ms,Lat_P95_ms,Lat_Max_ms
+2026-10-06 12:59:40,baseline_untuned,l3cube-pune/marathi-gpt,CPU,Next-Word,5123,15.3,0.99,23.74,1.17,64.77,61.75,99.63,667.37
+2026-10-06 12:59:40,baseline_untuned,l3cube-pune/marathi-gpt,CPU,Mid-Word,5123,4.14,0.55,5.11,0.6,67.18,64.3,101.08,185.82
+2026-10-06 23:53:18,baseline_untuned,l3cube-pune/marathi-gpt,CPU,Next-Word,2763,15.89,1.36,27.51,1.67,73.39,65.48,123.3,1409.1
+2026-10-06 23:53:18,baseline_untuned,l3cube-pune/marathi-gpt,CPU,Mid-Word,2763,5.03,0.82,6.73,0.93,79.2,91.54,127.91,574.98

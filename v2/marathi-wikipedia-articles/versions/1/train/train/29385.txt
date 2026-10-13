@@ -1,0 +1,10 @@
+
+ 
+
+For some reason Marathi fonts does not appear/render correctly in Firefox on Windows XP. You might notice this while selecting the text. Also Microsoft's Mangal font does not render very good in firefox. So here is the solution!
+Arial Unicode MS font is distributed along with Microsoft Office; So if you own a copy of MS Office but still dont have it installed, then follow the instructions given at How to Install Arial Unicode MS, or you can download it from Amherst College Information Technology's Languages web-page and save it in your c:\windows\fonts directory.
+
+One more thing I realized: You need to have support for complex scripts enabled in Windows if you want Devnagri to work properly in Firefox.You can do this by going to:
+Start -> Control Panel -> Regional and Language Options -> Languages tab
+and then checking the box that read: "Install files for complex script and right-to-left languages ".
+After checking this box, even though Windows may not prompt you to, you need to reboot.

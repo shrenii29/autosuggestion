@@ -1,0 +1,9 @@
+Timestamp,Run_Name,Model,Device,Scenario,Sample_N,Top1_Acc,Top1_CI,Top3_Acc,Top3_CI,Lat_Mean_ms,Lat_P50_ms,Lat_P95_ms,Lat_Max_ms
+2026-10-06 20:45:40,finetuned_fp32,l3cube-pune/marathi-gpt,CPU,Next-Word,5123,16.46,1.02,25.98,1.2,44.7,41.89,65.48,1117.56
+2026-10-06 20:45:40,finetuned_fp32,l3cube-pune/marathi-gpt,CPU,Mid-Word,5123,4.74,0.58,6.05,0.65,46.11,43.37,67.69,148.76
+2026-10-06 23:24:05,marathi-gpt-lora-v2_fp32,l3cube-pune/marathi-gpt,CPU,Next-Word,5123,16.36,1.01,25.73,1.2,44.41,41.98,63.63,374.44
+2026-10-06 23:24:05,marathi-gpt-lora-v2_fp32,l3cube-pune/marathi-gpt,CPU,Mid-Word,5123,4.67,0.58,6.13,0.66,45.93,43.3,65.04,145.2
+2026-10-06 23:34:02,marathi-gpt-lora-v3_fp32,l3cube-pune/marathi-gpt,CPU,Next-Word,5123,16.75,1.02,26.63,1.21,49.59,41.79,111.4,332.39
+2026-10-06 23:34:02,marathi-gpt-lora-v3_fp32,l3cube-pune/marathi-gpt,CPU,Mid-Word,5123,4.61,0.57,5.8,0.64,51.48,43.24,114.53,340.13
+2026-10-06 23:44:05,marathi-gpt-lora-v3_gemini_test,l3cube-pune/marathi-gpt,CPU,Next-Word,2763,15.96,1.37,26.31,1.64,47.61,45.24,66.8,281.08
+2026-10-06 23:44:05,marathi-gpt-lora-v3_gemini_test,l3cube-pune/marathi-gpt,CPU,Mid-Word,2763,5.25,0.83,6.51,0.92,50.83,50.05,68.96,108.76

@@ -1,0 +1,13 @@
+अभिजात यामिकी ही भौतिकीची एक शाखा असून मोठ्या पदार्थांच्या गतीचा अभ्यास करते..
+पुढील समीकरणे न्यूटनियन यामिकी आणि इतर यामिकी ह्या विश्लेषक यामिकीतून घेतलेली आहेत.
+  m = ∬ σ d S  {\displaystyle m=\iint \sigma \mathrm {d} S} 
+  m = ∭ ρ d V   {\displaystyle m=\iiint \rho \mathrm {d} V\,\!} 
+   m = r m   {\displaystyle \mathbf {m} =\mathbf {r} m\,\!} 
+अक्षसापेक्ष विविक्त वस्तुमान   x i    {\displaystyle x_{i}\,\!} :   m = ∑ i = 1  N   r  i   m i    {\displaystyle \mathbf {m} =\sum _{i=1}^{N}\mathbf {r} _{\mathrm {i} }m_{i}\,\!} 
+अक्षसापेक्ष अखंड वस्तुमान   x i    {\displaystyle x_{i}\,\!} :   m = ∫ ρ   x i  d  r   {\displaystyle \mathbf {m} =\int \rho \leftx_{i}\mathrm {d} \mathbf {r} \,\!} 
+
+विविक्त वस्तुमान:   r  c o m  =  1 M  ∑ i   r  i   m i  =  1 M  ∑ i   m  i    {\displaystyle \mathbf {r} _{\mathrm {com} }={\frac {1}{M}}\sum _{i}\mathbf {r} _{\mathrm {i} }m_{i}={\frac {1}{M}}\sum _{i}\mathbf {m} _{\mathrm {i} }\,\!} 
+अखंड वस्तुमान:    r  c o m  =  1 M  ∫ d  m =  1 M  ∫ r  d m =  1 M  ∫ r ρ d V   {\displaystyle \mathbf {r} _{\mathrm {com} }={\frac {1}{M}}\int \mathrm {d} \mathbf {m} ={\frac {1}{M}}\int \mathbf {r} \mathrm {d} m={\frac {1}{M}}\int \mathbf {r} \rho \mathrm {d} V\,\!} 
+  I = ∑ i   m  i  ⋅  r  i  = ∑ i   |  r  i  |  2  m   {\displaystyle I=\sum _{i}\mathbf {m} _{\mathrm {i} }\cdot \mathbf {r} _{\mathrm {i} }=\sum _{i}\left|\mathbf {r} _{\mathrm {i} }\right|^{2}m\,\!} 
+अखंड वस्तुमान:   I = ∫  | r |  2  d m = ∫ r ⋅ d  m = ∫  | r |  2  ρ d V   {\displaystyle I=\int \left|\mathbf {r} \right|^{2}\mathrm {d} m=\int \mathbf {r} \cdot \mathrm {d} \mathbf {m} =\int \left|\mathbf {r} \right|^{2}\rho \mathrm {d} V\,\!} 
+

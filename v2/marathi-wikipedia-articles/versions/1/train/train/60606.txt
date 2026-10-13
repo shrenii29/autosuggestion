@@ -1,0 +1,93 @@
+
+ 
+ चावडी विभागवार:
+प्रचालकांचे मूल्यांकन प्रचालकांचे कार्य आणि कृतींबद्दल उहापोह करण्यासाठीनवीन विषय जोडा | वाचा 
+स्थापना___ 
+काही निवडक चर्चाजुन्या रंगलेल्या किंवा महत्वाच्या चर्चा --
+
+विकिपीडिया:चावडीArchives Dated↓विदागार दिनानुक्रम↓
+
+विकिपीडिया:चावडी/प्रगतीArchives Dated↓विदागार दिनानुक्रम↓
+
+
+विक्शनरी:चावडी
+प्रस्तावित प्रकल्प
+विकिबुक्स चावडी
+विकिक्वोट्स चावडी 
+Talk:मुखपृष्ठ
+प्रस्तावित प्रकल्प
+Talk:विकिप्रॉजेक्ट महाराष्ट्र
+मराठी विकिमीडीया प्रसिद्धी प्रकल्प
+ंदेश पाठविला. -->
+Change coming to how certain templates will appear on the mobile web
+कृपया आपल्या भाषेत भाषांतर करण्यास मदत करा
+Hello,
+In a few weeks the Readers web team will be changing how some templates look on the mobile web site. We will make these templates more noticeable when viewing the article. We ask for your help in updating any templates that don't look correct.
+What kind of templates? Specifically templates that notify readers and contributors about issues with the content of an article – the text and information in the article. Examples like Template:Unreferenced or Template:More citations needed. Right now these notifications are hidden behind a link under the title of an article. We will format templates like these to show a short summary under the page title. You can tap on the "Learn more" link to get more information.
+For template editors we have some recommendations on how to make templates that are mobile-friendly and also further documentation on our work so far.
+If you have questions about formatting templates for mobile, please leave a note on the project talk page or file a task in Phabricator and we will help you.
+आपणास धन्यवाद!
+CKoerner  ०१:०४, १४ नोव्हेंबर २०१८ 
+Please help translate to your language
+Dear all,
+I am happy to announce that the applications for TWL Con, a mini-conference around The Wikipedia Library and library outreach for Wikimedia projects in India are now open. The application form is available here. Last date is 25 November 2018. The event is to be held in January 2019. The eligibility guidelines are applicable as mentioned here. -- Shypoetess ००:१४, २० नोव्हेंबर २०१८ 
+The Community Wishlist Survey. कृपया आपल्या भाषेत भाषांतर करण्यास मदत करा.
+Hey everyone,
+The Community Wishlist Survey is the process when the Wikimedia communities decide what the Wikimedia Foundation Community Tech should work on over the next year.
+The Community Tech team is focused on tools for experienced Wikimedia editors. The communities have now posted a long list of technical proposals. You can vote on the proposals from now until 30 November. You can read more on the wishlist survey page. 
+ २३:४३, २२ नोव्हेंबर २०१८ 
+Please help translate to your language
+Dear all,
+It is to remind you that the applications for TWL Con, a mini-conference around The Wikipedia Library and library outreach for Wikimedia projects in India are open only till tomorrow i.e. 25 November 2018. The application form is available here. The event is to be held in January 2019. The eligibility guidelines are applicable as mentioned here. Kindly fill out the form as soon as possible -- Shypoetess २३:५३, २४ नोव्हेंबर २०१८ 
+Johanna Strodt  १६:३३, २६ नोव्हेंबर २०१८ 
+कृपया आपल्या भाषेत भाषांतर करण्यास मदत करा
+The Wikimedia Foundation security team is implementing a new password policy and requirements. You can learn more about the project on MediaWiki.org.
+These new requirements will apply to new accounts and privileged accounts. New accounts will be required to create a password with a minimum length of 8 characters. Privileged accounts will be prompted to update their password to one that is at least 10 characters in length.
+These changes are planned to be in effect on December 13th. If you think your work or tools will be affected by this change, please let us know on the talk page.
+आपणास धन्यवाद!
+CKoerner  ०१:३३, ७ डिसेंबर २०१८ 
+नमस्कार,
+२२ डिसेंबर, २०१७ रोजी मराठी विकिपीडियाने ५०,००० लेखांचा टप्पा ओलांडला. आज एक वर्षाने येथे ५२,२५० लेख आहेत म्हणजे महिन्याला अंदाजे २०४ लेखांची भर पडली.
+याशिवाय संपादकांच्या संख्येतसुद्धा मोठी वाढ झालेली आहे. या साठी सर्वांचे अभिनंदन.
+वरील प्रगतीबरोबरच अनेक इतर गोष्टीही झाल्या आहेत - काही चांगल्या, काही वाईट. यांबद्दल प्रत्येकाने आत्मपरीक्षण करावे आणि योग्य ते बदल करावे ही विनंती.
+पुन्हा एकदा अभिनंदन आणि आपल्या पुढील वाटचालीसाठी शुभेच्छा.
+अभय नातू ०७:३७, २३ डिसेंबर २०१८ 
+कृपया आपल्या भाषेत भाषांतर करण्यास मदत करा
+Love is an important subject for humanity and it is expressed in different cultures and regions in different ways across the world through different gestures, ceremonies, festivals and to document expression of this rich and beautiful emotion, we need your help so we can share and spread the depth of cultures that each region has, the best of how people of that region, celebrate love. 
+Wiki Loves Love is an international photography competition of Wikimedia Commons with the subject love testimonials happening in the month of February.
+The primary goal of the competition is to document love testimonials through human cultural diversity such as monuments, ceremonies, snapshot of tender gesture, and miscellaneous objects used as symbol of love; to illustrate articles in the worldwide free encyclopedia Wikipedia, and other Wikimedia Foundation projects. 
+The theme of 2019 iteration is Celebrations, Festivals, Ceremonies and rituals of love.
+Sign up your affiliate or individually at Participants page.
+To know more about the contest, check out our Commons Page and FAQs
+There are several prizes to grab. Hope to see you spreading love this February with Wiki Loves Love!
+Kind regards,
+Wiki Loves Love Team
+Imagine... the sum of all love!
+--MediaWiki message delivery १५:४३, २७ डिसेंबर २०१८ 
+Apologies for writing in English, please consider translating the message
+Hello everyone,
+This year CIS-A2K is seeking expressions of interest from interested communities in India for hosting the Train-the-Trainer 2019.
+Train-the-Trainer or TTT is a residential training program which attempts to groom leadership skills among the Indian Wikimedia community members. Earlier TTT has been conducted in 2013, 2015, 2016, 2017 and 2018.
+If you're interested in hosting the program, Following are the per-requests to propose a bid:
+Please learn more about the Train-the-Trainer program and to submit your proposal please visit this page. Feel free to reach to me for more information or email titoसाचा:@cis-india.org 
+Best!
+Pavan Santhosh ११:२२, ६ जानेवारी २०१९ )
+Hi! For a few months now, the FileExporter has been a beta feature on this wiki . It makes it possible to move a file from a local wiki to Wikimedia Commons, while keeping its history intact.
+A new version of the feature will be deployed on January 16, including some bug fixes and added features. With this new version, the FileExporter will also become a beta feature on all other wikis.
+As always, you’re very invited to test it and let us know what you think. This helps us further improve the feature before it becomes a default functionality. A big thanks to everyone who gave feedback so far! -- Best, Johanna Strodt  १६:२८, १४ जानेवारी २०१९ 
+००:१९, १७ जानेवारी २०१९ 
+The Wikimedia Foundation is planning a global consultation about communication. The goal is to bring Wikimedians and wiki-minded people together to improve tools for communication.
+We want all contributors to be able to talk to each other on the wikis, whatever their experience, their skills or their devices.
+We are looking for input from as many different parts of the Wikimedia community as possible. It will come from multiple projects, in multiple languages, and with multiple perspectives.
+We are currently planning the consultation. We need your help.
+We need volunteers to help talk to their communities or user groups.
+You can help by hosting a discussion at your wiki. Here's what to do: 
+You can also help build the list of the many different ways people talk to each other.
+Not all groups active on wikis or around wikis use the same way to discuss things: it can happen on wiki, on social networks, through external tools... Tell us how your group communicates.
+You can read more about the overall process on mediawiki.org. If you have questions or ideas, you can leave feedback about the consultation process in the language you prefer.
+Thank you! We're looking forward to talking with you.
+Trizek २०:३१, २१ फेब्रुवारी २०१९ 
+Hello Wikimedians! 
+The Wikipedia Library is announcing signups today for free, full-access, accounts to published research as part of our Publisher Donation Program. You can sign up for new accounts and research materials on the Library Card platform: 
+Many other partnerships with accounts available are listed on our partners page, including Baylor University Press, Taylor & Francis, Cairn, Annual Reviews and Bloomsbury. You can request new partnerships on our Suggestions page.
+Do better research and help expand the use of high quality references across Wikipedia projects: sign up today!--The Wikipedia Library Team २३:१०, १३ मार्च २०१९ 

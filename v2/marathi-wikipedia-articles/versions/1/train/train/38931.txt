@@ -1,0 +1,25 @@
+
+
+साचा:H:h
+Metawikipedia:Help:Advanced templates येथील पानाचे भाषांतर
+या पानात ,प्रगत साचांचे तंत्रज्ञान नमुद केले आहे,विशेषतः,साच्यांच्या बदलणार्‍या नावांचा वापर तसेच साच्यांच्या कार्यकक्षांची नावे इत्यादी. सहाय्य:साचे येथे असणार्‍या साच्यांचे तंत्रज्ञान वाचकांनी, संपूर्णपणे अवगत करून घ्यावे.यातील काही खाली नमुद केलेली तंत्रे ही मर्यादित स्वरुपाची असु शकतात तर काही अद्ययावत् नसु शकतात ;उदाहरणार्थ: येथील चर्चा केलेली काही branching techniques यापेक्षा पार्सर क्रिया या जास्त सुटसुटीत असु शकतात. 
+.This page covers advanced template techniques, in particular the use of variable template names and parameter names in templates. Readers should be thoroughly familiar with the standard template techniques found in Help:Template. Some techniques described below may be outdated or of limited use; for example, ParserFunctions may be more convenient than some of the branching techniques discussed. 
+सर्वसाधारणपणे,ही तंत्रे पुनर्कृति recursive पद्धतीच्या साच्यांवर प्रक्रिया करण्यावर अवलंबुन असतात.जेंव्हा एखाद्या साच्यावर प्रक्रिया करण्यात येते,ती साच्याचा संकेतास string values भाषांतरीत करते. बहुधा, हे सरळ वेब ब्राउजरला सादरीकरणास पाठविले जाते परंतु त्यास 'संकेत' म्हणुनही समजल्या जाउ शकते. दोन महिरपी कंसात text strings बद्ध केल्यावर  साच्यांची नावे किंवा बदल नावे म्हणुनही त्यावर पुनर्प्रक्रिया केल्या जाउ शकते. त्याने, string च्या किंमती बदलल्यामुळे, वेगवेगळे निकाल मिळतात.
+In general, these techniques rely on the recursive processing of templates. When a template is processed, it translates template code into string values. These are often sent directly to the web browser for display, but they can be treated as code themselves. By enclosing the text strings in double-curly-brackets, for instance, they can be reprocessed as template names or variable names, producing different results as the string values are changed.
+नोंदी: 
+काही प्रकरणात, एखाद्या साच्यास ,बदल किंवा कार्यकक्षा निस्तरणा बघुन, दुसर्‍या अनेक साच्यांना आमंत्रित करणे सहाय्यक ठरु शकते. In some cases, it may be useful for a template to call different templates depending on a variable or a passed parameter. This allows a type of branching that can be simpler than Parser functions, though they are generally less versatile.
+उदाहरण:
+The extra spaces in the above examples are needed: without them, the code is not processed as a template or a magic word, but just as a plain text string like so: {{{{NAMESPACE}}}}.
+साचा:Hist5
+Since there is no convenient way to test substring values, these techniques work best if the variable template has only a limited number of possible values. For example, the variable {{CURRENTDAYNAME}} has only seven possible values, so all cases can be handled with seven templates, and the variable {{NAMESPACE}} currently has 18 possible values. On the other hand, {{CURRENTTIME}} has 1440 possible values, which would require the creation of 1440 template pages or redirects, which would be impractical. Even with parser functions, all 1440 values would have to be listed and m:Template:minute ). In cases like that, it would be better to construct the template with multiple parameters that each only take a few values, rather than trying to account for all possibilities in a single parameter.
+If a template depends on PAGENAME, then the many possible values of PAGENAME may not be a problem. Only the pagenames of the pages that call the template apply, and these can be limited to a small, enumerable set.
+Templates can be passed as parameters to other templates. This can mean either that the template is evaluated and the result is passed as a parameter or that the template name is passed and evaluated as part of the other template.
+A parameter name in a template can be a variable. This is useful if you want the behavior of a template to change based on the information that is provided to it.
+Choosing parameters contextually - {{t pnd|parameter name}}
+Template:t p contains {{{capital}}} is the capital of {{{country}}}, with two parameters - "capital" and "country". साचा:Timc can be used to select which parameter is used in a particular case. Thus:
+This applies to integer parameters as well, since integer parameters can be specified using the "#=" notation. Passing the integer value N to {{t pnd}} as its parameter will make it look for the Nth unnamed parameter.
+The following branching methods are generally obsolete; Parser Functions give easier forms of control. However, they may be useful in particular situations, and point out some unintuitive features of template behavior.
+Variables names can also be generated as variables.
+| {{ns:0}}=gallery| {{ns:2}}=user page| {{ns:4}}=project page| {{ns:6}}=media file| {{ns:8}}=system message| {{ns:10}}=template| {{ns:14}}=category| {{TALKSPACE}}=talk page| page}}{{documentation}}
+], the last use of the parameter evaluates to a number #, and the entire phrase ns:# is evaluated as a template. Thus, {{namespace|4}} gives gallery, where Meta is the name of Namespace 4.
+साचा:H:f

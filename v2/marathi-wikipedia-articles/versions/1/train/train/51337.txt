@@ -1,0 +1,25 @@
+
+
+Maa
+The phoneme inventory of Marathi is similar to that of many other Indic languages. An मराठी अक्षरांचे उच्चार दाखविणाऱ्या आंतरराष्ट्रीय पद्धतीतील चिन्हांचा तक्ता chart of all contrastive sounds in Marathi is provided below.
+All transliteration should be from the written form in the original script of the original language of the name or term. The original text in the original script should also be included near the start of the article for reference and checking. 
+All unpronounced 'a's should be removed if: the source script does not indicate the removal of the inherent 'a' AND if it is unpronounced in the original source language.
+The scheme is based on ISO 15919 for Indic scripts. . This is very close to IAST with minor differences to accommodate non-Devanagari scripts. The differences are:
+The advantages of using ISO 15919 is that it can be used equally across all Indic scripts.
+The inherent vowel is always transliterated as 'a' in the formal ISO 15919 transliteration. In the simplified transliteration, 'a' is also normally used except in Bengali where 'o' is used. 
+TODO Talk about differing IPAs for inherent vowels.
+Vowels are presented in their independent form on the left of each column, and combined with the corresponding consonant ka on the right. An asterisk indicates that the letter or ligature exists, but has not been encoded in unicode or is archaic/obsolete.
+The actual IPA slightly depends from language to language. So it has been mentioned within slashes in the respective language columns, wherever it is different from the Hindi phoneme, which is the IPA value in the IPA column.
+Punjabi is rather unique for an Indo-European language in that tones are a prominent feature of speech. As such, the IPA conversion is not accurate for Punjabi. Fortunately, there is a direct correlation between certain aspirated consonants and use of subscript /ha/ to represent different tones.
+The consonants that are employed for voiced aspirates in other Indian languages are not prounced as such in Punjabi. In Punjabi these consonants are used to mark changes in tone. The table below indicates how each consonant is pronounced based on its position within a word.
+At the beginning or middle of a word, a voiced aspirate indicates a low tone on the following vowel. Examples:
+At the end of the word, the voiced aspirates indicates a high tone on the preceding vowel. Examples:
+At the beginning of a word, ਹ indicates .
+In the middle or at the end of a word, ha indicates a high tone on the preceding vowel. Examples:
+Subscript ha also indicates a high tone on the preceding vowel. Examples:
+The following conventions apply apart from at the beginning of a word:
+Should we include this point? When used with a semi-vowel, candrabindu is placed before the semi-vowel. For example, यँ is written m̐ya and not yam̐.
+The standard nasal signs are only to be used at the end of words OR when it is crucial to keep the distinction between Bindi and Tippi use in Gurmukhi. Otherwise, the following rules should be enforced:
+Not sure about ṛ and ṛh...
+Also, should nasalisation always be written as /ⁿ/ ?
+Talk about Nukta on its ownVisargaAvagrahaOther SignsOm, Ek Onkar etc.

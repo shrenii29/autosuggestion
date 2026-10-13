@@ -1,0 +1,10 @@
+Hyperchloric acid
+OCl=O
+
+
+
+
+InChI=1S/ClHO4/c2-15/h YKey: VLTRZXGMWDSKGL-UHFFFAOYSA-N Y
+InChI=1/ClHO4/c2-15/hKey: VLTRZXGMWDSKGL-UHFFFAOYAD
+ 
+परक्लोरिक आम्ल हे क्लोरीन व ऑक्सिजन यांच्यापासून बनलेले अत्यंत शक्तिशाली आम्ल असून त्याचे रासायनिक सूत्र HClO4 आहे.

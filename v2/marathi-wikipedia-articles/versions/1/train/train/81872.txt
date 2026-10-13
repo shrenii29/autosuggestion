@@ -1,0 +1,10 @@
+Iodic acid
+O=IO
+
+
+
+
+InChI=1S/HIO3/c2-14/h YKey: ICIWUVCWSCSTAQ-UHFFFAOYSA-N Y
+InChI=1/HIO3/c2-14/hKey: ICIWUVCWSCSTAQ-UHFFFAOYAT
+ 
+आयोडिक आम्ल हे आयोडिन व ऑक्सिजन यांच्यापासून बनलेले दुर्बल आम्ल असून त्याचे रासायनिक सूत्र HIO3 आहे.

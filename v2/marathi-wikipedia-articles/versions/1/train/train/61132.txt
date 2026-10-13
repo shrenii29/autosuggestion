@@ -1,0 +1,18 @@
+आत्ता हे जास्त सोपे झाले.
+इतर विविध समन्वय आणि लेख प्रकल्पातील भाषांतरण करणार्‍या सदस्यगटांचे दुवे येथे खाली द्यावेत.
+
+तुम्हाला मराठी विकिपीडियावर जीथे जीथे मराठीकरण शक्य वाटते ते ते येथे नोंदवणे.हा प्रकल्प विकिसंज्ञा लेखाचा संलग्न प्रकल्प आहे. खालील इंग्रजी मथळ्यांचे भाषांतर/मराठीकरण करण्यात, व्याख्या लिहीण्यात मदत करा.इथे पूर्ण झालेले विभाग विकिसंज्ञा लेखात स्थानांतरीत करण्यात येतील.
+इतर लेखातील भाषांतर/मराठीकरण संबधीत इथे फक्त विनंती मांडावी,प्रत्य्क्षइतर लेखातील भाषांतर/मराठीकरण संबधीत लेखातच/धूळपाटीवर करावे.
+Hoi,I have asked Nikerabbit to take the messages that have been localised here on the Marathi Wikipedia, and make them available in the MediaWiki software. I am really happy that he did this. This means that in a few days, all WMF projects will allow many of the messages to be used in Marathi .. you will have to select Marathi in your user preferences .. however many messages were not usable for technical reasons.
+The messages can already be found here in "BetaWiki". It would be appreciated if you could work on the localisation of the messages in the BetaWiki. When this is done well, the missing messages will become part of MediaWiki as well.
+Thanks, GerardM १५:३८, ७ मार्च २००७ 
+
+Hoi, the most often used MediaWiki messages are the most visible messages. They help our readers and editors the most. We are aiming to get these messages localised for as many languages as possible by the end of the year. Please help us and yourself and localise these messages. Thanks, GerardM १३:५४, १९ नोव्हेंबर २००८ 
+
+Wikipedia:Community Portal
+पाहा: विकिसंज्ञा मराठीकरण
+रद्द करा
+
+
+
+– केदार {संवाद, योगदान} 10:43, 18 डिसेंबर 2006 

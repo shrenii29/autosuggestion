@@ -1,0 +1,2 @@
+मेकॅनिकल इंजिनीरिंग ही अभियांत्रिकीच्या सर्वांत जुन्या शाखांपैकी एक आहे. ही एक अभियांत्रिकीची अतिशय विस्तारित शाखा आहे. हिच्यात साधारणपणे यांत्रिक व्यवस्थेच्या मागचे तत्त्व व तिच्या उत्पादनासाठी लागण्याऱ्या भौतिक नियमांचा अभ्यास आणि वापर असतो.
+यातील उपशाखा अशा आहेत:Statics, Dynamics, Strength of materials, Solid mechanics, Thermodynamics, Fluid Dynamics, Heat Transfer, Refrigeration and Air Conditioning, Kinematics, Manufacturing Technology, Mechatronics व Control Theory.

@@ -1,0 +1,26 @@
+जपानी अंकलिपि ही जपानी भाषेत वापरली जाणारी अंक पद्धती आहे. जपानी अंकलिपी पूर्णपणे चिनी अंकलिपि वर आधारित आहे. जपानी अंकांसाठी दोन उच्चारण पद्धती आहेत,
+जपानी अंक लिहीण्याच्या दोन पद्धती आहेत - अरबी अंक किंवा चिनी अंक . अरबी अंक मुख्यत्वे आडव्या लेखन पद्धती मधे वापरले जातात तर, चिनी अंक साधारणतः उभ्या लेखन पद्धती मधे अढळतात.
+
+* आजून एक विषेश उच्चारण आहे 'मारु'. जेव्हा एखादी संख्या, संख्या स्वरूपात न वाचता, तिच्यातील अंक अनुक्रमे एक एक या पद्धतीने वाचले जातात तेव्हा 'शून्य' ला 'मारु' असे देखिल संबोधले जाते. याचे सर्वज्ञात उदाहरण म्हणजे टोक्यो मधील एक प्रख्यात दुकान '109'. या दुकानाचे नाव इचि-मरु-क्यू असे वाचले जाते. इंग्रजी भाषेतील सदृश उदाहरण म्हणजे '0' ला 'ओह' म्हणतात, तसे. 'मारु'चा शुद्ध अर्थ आहे 'वर्तुळ', पण लिहीताना '0' असेचं लिहीतात अर्थात रेई .
+जपानी संस्कृती मधे 4 आणि 9 हे अंक अशुभ मानले जातात: 4 या अंकाचे एक उच्चारण शि असे आहे, ज्याचे मृत्यू या कांजीच्या उच्चारणाशी सांम्य आहे; 9 या अंकाचे एक उच्चारण कु असे आहे, ज्याचे सांम्य यातना या कांजीच्या उच्चारणाशी सांम्य आहे. पाश्विमात्य संस्कृतीच्या प्रभावामुळे 13 ही संख्या देखिल अशुभ मानली जाते, पण क्वचितचं .
+सध्याच्याकाळातील जपानी भाषेत 4 आणि 7 सोडून बाकी सर्व अंकांसाठी ओन् उच्चारण वापरतात, 4 आणि 7 ला मात्र योन् आणि नाना हे उच्चारण प्रचलित आहे. ही द्वितीय उच्चारणं महिन्यांची नावे, महिन्यातील दिवसाचे नाव आणि अर्थपूर्ण शब्द समूहांसाठी प्रचलित आहे. उदा. 4.79 हा दशांश अपूर्णांक योन्-तेन् नाना क्यू असा वाचला जातो. यास अपवाद म्हाणजे एप्रिल, जुलै आणि सप्टेंबर, जे शि-गात्सु, शिचि-गात्सु, आणि कु-गात्सु असे संबोधले जातात. इतर संख्यावाचनासाठी खालील प्रत्यये अंकाच्या उच्चारणा पुढे जोडली जातात:
+मोठ्यासंख्यांच्या उच्चारामधे काही किंचित फेरबदलही अढळतात.
+मोठ्या मध्ये मोठ्या संख्या भागास, छोटा संख्या भाग जोडला जातो. यात 'शून्य'ला गृहित धरले जाते.
+*रेन्‌दाकु मुळे ह्याकु हे उच्चारण ब्याकु मधे रुपांतरित होते.
+चिनी पद्धती प्रमाणे, जपानी पद्धतीत संख्या लिहिताना 10000 चे समूहा करून लिहीतात. हे पाश्चिमात्य पद्धती पासुन थोडे वेगळे आहे, ज्यात हजारचे समुह बनवले जातात. :
+Variation is due to Jinkōki, Japan's oldest mathematics text. The initial edition was published in 1627. It had many errors. Most of these were fixed in the 1631 edition. In 1634 there was yet another edition which again changed a few values. The above variation is due to inconsistencies in the latter two editions. 
+Examples: 
+However, numbers written in Arabic numerals are separated by commas every three digits following Western convention. If Arabic numbers and kanji are used in combination, Western orders of magnitude may be used for numbers smaller than 10,000 .
+In Japanese, when long numbers are written out in kanji, zeros are omitted for all powers of ten. Hence 4002 is 四千二 . However, in reading, the letter zero is sometimes pronounced as tobi or tonde to indicate the lack of numbers, e.g. yon-sen tobi ni or yon-sen tonde ni can be used instead of the normal yon-sen ni.
+Japanese has two systems of numerals for decimal fractions. They are no longer in general use, but are still used in some instances such as batting and fielding averages of baseball players, winning percentages for sports teams, and in some idiomatic phrases, and when representing a rate or discount.
+One system is as follows:
+This is the system used with the traditional Japanese units of measurement. Several of the names are used "as is" to represent a fraction of a shaku.
+The other system of representing these decimal fractions of rate or discount uses a system "shifted down" with a bu becoming a "one hundredth" and so on, and the unit for "tenth" becoming wari:
+This is often used with prices. For example:
+With the exception of wari, these are rarely seen in modern usage. Decimal fractions are typically written with either kanji numerals or Arabic numerals, preceded by a decimal point, and are read as successive digits, as in Western convention. Note that, in written form, they can be combined with either the traditional system of expressing numerals, in which powers of ten are written, or with the place value system, which uses zero In both cases, however, the reading follows the traditional system 
+As with Chinese numerals, there exists in Japanese a separate set of kanji for numerals called daiji used in legal and financial documents to prevent unscrupulous individuals from adding a stroke or two, turning a one into a two or a three. The formal numbers are identical to the Chinese formal numbers except for minor stroke variations. Today, only the formal numbers for one, two, three, and ten are used in legal documents. They are the ones whose common forms can be changed to a higher value by adding strokes . In some cases, the digit 1 is explicitly written like 壱百壱拾 for 110, as opposed to 百十 in common writing.
+Formal numbers:
+The four current banknotes of the Japanese yen, 1000-yen, 2000-yen, 5000-yen, and 10000-yen, have formal numbers 千, 弐千, 五千, and 壱万 respectively.
+Old Japanese shares some vocabulary with later periods, but there are also some unique numbers which are not used any more.
+Notes:
+

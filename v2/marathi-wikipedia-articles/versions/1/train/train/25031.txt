@@ -1,0 +1,11 @@
+Bromic acid
+Bromic acidHydrogen bromate
+O=O
+O=BrO
+
+
+
+InChI=1S/BrHO3/c2-14/h YKey: SXDBWCPKPHAZSM-UHFFFAOYSA-N Y
+InChI=1/BrHO3/c2-14/hKey: SXDBWCPKPHAZSM-UHFFFAOYAE
+ 
+ब्रोमिक आम्ल हे ब्रोमिन व ऑक्सिजन यांच्यापासून बनलेले आम्ल असून त्याचे रासायनिक सूत्र HBrO3 आहे.

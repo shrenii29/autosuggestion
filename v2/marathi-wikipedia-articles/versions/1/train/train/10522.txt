@@ -1,0 +1,3 @@
+en:Wikipedia:TemplateStylesThis page is a soft redirect.
+mw:Extension:TemplateStylesThis page is a soft redirect.
+mw:Help:TemplateStylesThis page is a soft redirect.

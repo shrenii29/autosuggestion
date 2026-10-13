@@ -1,0 +1,6 @@
+
+
+ओपनऑफिस.ऑर्ग हे उपयोजन सॉफ्टवेर आहे. त्याची सर्वात नवी आवृत्ती ओपनॉफिस.ऑर्ग बीटा आहे. विशेष म्हणजे हे सॉफ्टवेर मराठीतही उपलब्ध आहे.
+
+
+ओपनऑफिस १.० या उद्दिष्टासाठी प्रकाशित झाले होते - To create, as a community, the leading international office suite that will run on all major platforms and provide access to all functionality and data through open-component based APIs and an XML-based file format.

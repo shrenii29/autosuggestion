@@ -1,0 +1,10 @@
+क्लोरस आम्ल
+O=ClO
+
+
+
+
+InChI=1S/ClHO2/c2-1-3/h YKey: QBWCMBCROVPCKQ-UHFFFAOYSA-N Y
+InChI=1/ClHO2/c2-1-3/hKey: QBWCMBCROVPCKQ-UHFFFAOYAO
+ 
+क्लोरस आम्ल हे उदजन, ऑक्सिजन व क्लोरिन यांपासून एक दुर्बल, अस्थिर आम्ल असून त्याचे रासायनिक सूत्र HClO2 आहे.

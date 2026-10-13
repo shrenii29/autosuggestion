@@ -1,0 +1,10 @@
+हायड्रॉक्सि-λ३-ब्रोमेनोनहायड्रॉक्सिडोब्रोमिनब्रोमस आम्ल
+O=BrO
+
+
+
+
+InChI=1S/BrHO2/c2-1-3/h YKey: DKSMCEUSSQTGBK-UHFFFAOYSA-N Y
+InChI=1/BrHO2/c2-1-3/hKey: DKSMCEUSSQTGBK-UHFFFAOYAC
+ 
+ब्रोमस आम्ल हे उदजन, ऑक्सिजन व ब्रोमिन यांपासून एक दुर्बल, अस्थिर आम्ल असून त्याचे रासायनिक सूत्र HBrO2 आहे.

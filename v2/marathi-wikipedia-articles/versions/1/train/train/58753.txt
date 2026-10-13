@@ -1,0 +1,4 @@
+
+
+FUEL याचा उद्देश हा संगणकाच्याsoftware द्वारे करण्यात येणाऱ्या भाषांतरामधील अपुर्णतेचे प्रश्न व मानकांच्या कमतरता एका नविन व अनोख्या पद्धतीने सोडविणे असा आहे. 'रेड हॅट' द्वारे सुरू केलेला हा प्रकल्प,हा शेवटच्या टोकावरील वापरकर्त्यास,मानकीकर णाच्या व अपुर्णतेच्या सर्व बाबी दुर करण्यास मदत करत आहे.FUEL याचा उद्देश मंचावरच त्या तक्रारी दुर करणे हा आहे.भाषिक संगणक वापरकर्त्यास,तो एक सर्वसमावेशक व मानकिकृत असा संगणकाचा चेहरामोहरा देण्याचा प्रयत्न करत आहे.
+FUEL Marathi Evaluation Meet ही एक नेहमी पडणारे प्रश्न चर्चा करून सोडविण्यासाठी योजिलेली अशी वाटचाल आहे. यासाठी FUEL Marathi Evaluation Meetis a move todiscuss the problem and come with the evaluated translation of theFUEL entries list created by choosing frequently used entries fromimportant applications.

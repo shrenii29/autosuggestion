@@ -1,0 +1,9 @@
+O=BrO
+
+
+
+
+InChI=1S/BrHO4/c2-15/h YKey: LLYCMZGLHLKPPU-UHFFFAOYSA-N Y
+InChI=1/BrHO4/c2-15/hKey: LLYCMZGLHLKPPU-UHFFFAOYAZ
+ 
+परब्रोमिक आम्ल हे उदजन, ऑक्सिजन व ब्रोमिन यांपासून एक शक्तिशाली पण अस्थिर आम्ल असून त्याचे रासायनिक सूत्र HBrO4 आहे.
